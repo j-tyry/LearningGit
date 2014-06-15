@@ -24,3 +24,5 @@
 *.pyc
 *.ini
 *.v1_sys_astdelta
+.metadata/.plugins/org.python.pydev.shared_ui/dialog_settings.xml
+.metadata/.plugins/org.python.pydev/dialog_settings.xml
